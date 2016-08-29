@@ -1,0 +1,5 @@
+* Appointments
+  :PROPERTIES:
+  :CATEGORY: Appt
+  :ARCHIVE:  %s_archive::* Appointments
+  :END:

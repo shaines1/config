@@ -1,0 +1,460 @@
+# Schedule for basic home maintenance
+
+* House
+** Maintenance
+*** Interior
+**** Attic
+***** TODO Check attic for signs of roof leaks
+SCHEDULED: <2017-03-01 Wed +1y>
+:LOGBOOK:
+CLOCK: [2016-08-28 Sun 10:57]--[2016-08-28 Sun 10:58] =>  0:01
+:END:
+[2016-08-28 Sun 10:57]
+
+***** TODO Check for signs of rodents, bats, roaches, termites in attic
+SCHEDULED: <2017-10-01 Sun +1y>
+:LOGBOOK:
+CLOCK: [2016-08-28 Sun 10:55]--[2016-08-28 Sun 10:56] =>  0:01
+:END:
+[2016-08-28 Sun 10:55]
+
+**** Basement
+***** TODO Deep clean and inspect basement
+SCHEDULED: <2016-12-01 Thu +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:50]--[2016-08-27 Sat 15:58] =>  0:08
+CLOCK: [2016-08-27 Sat 15:49]--[2016-08-27 Sat 15:50] =>  0:01
+:END:
+[2016-08-27 Sat 15:49]
+
+***** TODO Check for signs of rodents, bats, roaches, termites in basement
+SCHEDULED: <2017-10-01 Sun +1y>
+:LOGBOOK:
+CLOCK: [2016-08-28 Sun 10:55]--[2016-08-28 Sun 10:56] =>  0:01
+:END:
+[2016-08-28 Sun 10:55]
+
+**** Bathroom
+***** TODO Flush unused sinks and toilets and test shut-off valves
+SCHEDULED: <2017-03-01 Wed +6m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:37]--[2016-08-27 Sat 15:41] =>  0:04
+:END:
+[2016-08-27 Sat 15:37]
+
+***** TODO Remove showerheads and clean sediment
+SCHEDULED: <2016-12-01 Thu +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:48]--[2016-08-27 Sat 15:49] =>  0:01
+:END:
+[2016-08-27 Sat 15:48]
+
+***** TODO Clean bathroom exhaust fan
+SCHEDULED: <2016-11-01 Tue .+1m>
+:LOGBOOK:
+CLOCK: [2016-08-28 Sun 11:12]--[2016-08-28 Sun 11:14] =>  0:02
+:END:
+[2016-08-28 Sun 11:12]
+
+***** TODO Clean bathroom drain stoppers
+SCHEDULED: <2016-12-01 Thu .+3m>
+[2016-08-28 Sun 11:14]
+
+***** TODO Inspect toilets
+SCHEDULED: <2016-12-01 Thu .+2m>
+:LOGBOOK:
+CLOCK: [2016-08-28 Sun 11:14]--[2016-08-28 Sun 11:16] =>  0:02
+:END:
+[2016-08-28 Sun 11:14]
+
+**** Bedroom
+**** Family Room
+**** Garage
+***** TODO Check for signs of rodents, bats, roaches, termites in garage
+SCHEDULED: <2017-10-01 Sun +1y>
+:LOGBOOK:
+CLOCK: [2016-08-28 Sun 10:55]--[2016-08-28 Sun 10:56] =>  0:01
+:END:
+[2016-08-28 Sun 10:55]
+
+***** TODO Test garage door auto-reverse feature
+SCHEDULED: <2016-11-01 Tue .+3m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:05]--[2016-08-27 Sat 15:06] =>  0:01
+:END:
+[2016-08-27 Sat 15:05]
+
+***** TODO Clean garage
+SCHEDULED: <2017-06-01 Thu +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:31]--[2016-08-27 Sat 15:37] =>  0:06
+:END:
+[2016-08-27 Sat 15:31]
+
+**** Kitchen
+***** TODO Inspect fire extinguisher
+Check the following:
+- Indicator on pressure gauge to ensure charged
+- Lock pin is intact
+- Discharge nozzle is not clogged
+- No dents, scratches, or corrosino
+SCHEDULED: <2016-11-01 Tue .+30d>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 13:22]--[2016-08-27 Sat 13:26] =>  0:04
+:END:
+[2016-08-27 Sat 13:22]
+
+***** TODO Refill fire extinguisher
+SCHEDULED: <2016-11-01 Tue .+6y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:39]--[2016-08-27 Sat 14:47] =>  0:08
+:END:
+[2016-08-27 Sat 14:39]
+
+***** TODO Clean sink disposal
+SCHEDULED: <2016-11-01 Tue .+1m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:47]--[2016-08-27 Sat 14:49] =>  0:02
+:END:
+[2016-08-27 Sat 14:47]
+
+***** TODO Clean range hood filter
+The [[http://www.familyhandyman.com/cleaning/kitchen-cleaning-checklist-tips-for-a-clean-kitchen#3][Family Handyman]] recommends a water-based degreaser from the auto
+parts store. Fill the sink with hot water and degreaser, drop in the filter
+ and let the degreaser do all the work.
+SCHEDULED: <2016-11-01 Tue .+2m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:49]--[2016-08-27 Sat 15:05] =>  0:16
+:END:
+[2016-08-27 Sat 14:49]
+
+***** TODO Clean microwave
+Combine a few cups of water with a squirt of lemon
+juice and heat until boiling in the microwave
+SCHEDULED: <2016-11-01 Tue .+2m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:11]--[2016-08-27 Sat 15:12] =>  0:01
+:END:
+[2016-08-27 Sat 15:11]
+
+***** TODO Vacuum refrigerator coils
+SCHEDULED: <2016-11-01 Tue .+6m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:12]--[2016-08-27 Sat 15:14] =>  0:02
+:END:
+[2016-08-27 Sat 15:12]
+
+***** TODO Clean refrigerator door
+Whirlpool's Institute of Kitchen Science advises cleaning
+refrigerator door and drawer gaskets with a cloth soaked
+with warm water and dish detergent, and then drying them with a towel.
+SCHEDULED: <2016-11-01 Tue .+6m>
+:LOGBOOK:
+CLOCK: [2016-08-28 Sun 11:08]--[2016-08-28 Sun 11:09] =>  0:01
+:END:
+[2016-08-28 Sun 11:08]
+
+***** TODO Run dishwasher clean cycle
+SCHEDULED: <2016-11-01 Tue .+2m>
+:LOGBOOK:
+CLOCK: [2016-08-28 Sun 11:09]--[2016-08-28 Sun 11:12] =>  0:03
+:END:
+[2016-08-28 Sun 11:09]
+
+**** Laundry
+***** TODO Check and clean dryer vent and other exhaust vents to exterior of home
+SCHEDULED: <2017-03-01 Thu +6m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:30]--[2016-08-27 Sat 15:31] =>  0:01
+:END:
+[2016-08-27 Sat 15:30]
+
+***** TODO Check washer hoses / connections
+SCHEDULED: <2016-12-01 Wed +1y>
+:LOGBOOK:
+CLOCK: [2016-08-28 Sun 10:59]--[2016-08-28 Sun 11:08] =>  0:09
+:END:
+[2016-08-28 Sun 10:59]
+
+**** Utility
+***** Smoke Alarms
+****** TODO Test smoke alarms
+Test smoke alarms with smoke source held 3 inches from unit
+SCHEDULED: <2016-11-01 Tue .+30d>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 13:20]--[2016-08-27 Sat 13:22] =>  0:02
+:END:
+[2016-08-27 Sat 13:20]
+
+****** TODO Clean smoke alarms and replace batteries
+SCHEDULED: <2016-11-01 Tue .+1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:32]--[2016-08-27 Sat 14:34] =>  0:02
+:END:
+[2016-08-27 Sat 14:32]
+
+***** Electric
+****** TODO Check circuit breakers and fuses
+SCHEDULED: <2016-11-01 Tue .+30d>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 13:28]--[2016-08-27 Sat 13:41] =>  0:13
+:END:
+[2016-08-27 Sat 13:28]
+
+***** HVAC
+****** Heating
+******* TODO Check gas furnace flame color
+Should be blue with little or no yellow
+SCHEDULED: <2017-10-01 Sun +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:21]--[2016-08-27 Sat 14:26] =>  0:05
+:END:
+[2016-08-27 Sat 14:21]
+
+******* TODO Inspect / clean gas furnace
+SCHEDULED: <2017-10-01 Sun +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 13:41]--[2016-08-27 Sat 13:46] =>  0:05
+:END:
+[2016-08-27 Sat 13:41]
+
+******* TODO Have furnace professionally serviced
+SCHEDULED: <2019-10-01 Sun +2y>
+[2016-08-27 Sat 14:39]
+
+****** Air Conditioning
+******* TODO Inspect and potentially replace HVAC air filter
+SCHEDULED: <2016-11-01 Tue .+30d>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 13:26]--[2016-08-27 Sat 13:28] =>  0:02
+:END:
+[2016-08-27 Sat 13:26]
+
+******* TODO Have air conditioning system professionally serviced
+SCHEDULED: <2019-10-01 Sun +2y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:14]--[2016-08-27 Sat 15:16] =>  0:02
+:END:
+[2016-08-27 Sat 15:14]
+
+******* TODO Cover outside air conditioning unit
+SCHEDULED: <2019-10-01 Sun +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:42]--[2016-08-27 Sat 15:43] =>  0:01
+:END:
+[2016-08-27 Sat 15:42]
+
+***** Water Heater
+****** TODO Partially drain water heater
+Drain to remove sediment from the bottom of the tank
+SCHEDULED: <2016-11-01 Tue .+30d>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 13:18]--[2016-08-27 Sat 13:20] =>  0:02
+:END:
+[2016-08-27 Sat 13:18]
+
+****** TODO Test water heater safety valve
+[[http://www.dummies.com/home-garden/plumbing/water-heaters/testing-your-water-heater-temperature-and-pressure-relief-valve/][Instructions]]: Manually open safety valve (temperature-pressure-relief valve)
+at top of hot water tank to test operation; wear gloves, and
+use a bucket to catch water as it comes out. Be sure the valve
+returns to its original position
+SCHEDULED: <2017-03-01 Wed .+6m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 13:51]--[2016-08-27 Sat 13:52] =>  0:01
+:END:
+[2016-08-27 Sat 13:51]
+
+****** TODO Flush water heater
+[[http://www.wikihow.com/Flush-a-Water-Heater][Instructions]]
+SCHEDULED: <2016-10-01 Sat +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:41]--[2016-08-27 Sat 15:42] =>  0:01
+:END:
+[2016-08-27 Sat 15:41]
+
+**** Walls
+***** TODO Inspect inside of foundation walls for dampness or water stain
+SCHEDULED: <2017-03-01 Wed +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:07]--[2016-08-27 Sat 14:08] =>  0:01
+:END:
+[2016-08-27 Sat 14:07]
+
+***** TODO Inspect walls for cracks where ceilings and walls join
+SCHEDULED: <2017-03-01 Wed +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:14]--[2016-08-27 Sat 14:15] =>  0:01
+:END:
+[2016-08-27 Sat 14:14]
+
+***** TODO Clean and repair/replace window screens
+SCHEDULED: <2017-03-01 Wed +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:16]--[2016-08-27 Sat 15:18] =>  0:02
+:END:
+[2016-08-27 Sat 15:16]
+
+***** TODO Clean and inspect interior window frames
+SCHEDULED: <2017-10-01 Sun +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:18]--[2016-08-27 Sat 15:24] =>  0:06
+:END:
+[2016-08-27 Sat 15:18]
+
+***** TODO Test GFCI outlets
+SCHEDULED: <2016-12-01 Thu +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:45]--[2016-08-27 Sat 15:47] =>  0:02
+:END:
+[2016-08-27 Sat 15:45]
+
+**** TODO Check faucets, hoses, bibs, commodes, and shutoff valves for leaks
+SCHEDULED: <2017-03-01 Wed +6m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:15]--[2016-08-27 Sat 14:21] =>  0:06
+:END:
+[2016-08-27 Sat 14:15]
+
+**** TODO Check caulking around sinks, bathtubs, and showers
+SCHEDULED: <2017-12-01 Fri +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:34]--[2016-08-27 Sat 14:39] =>  0:05
+:END:
+[2016-08-27 Sat 14:34]
+
+**** TODO Deep clean entire house
+SCHEDULED: <2016-10-15 Sat .+6m>
+Every nook and cranny
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:07]--[2016-08-27 Sat 15:11] =>  0:04
+:END:
+[2016-08-27 Sat 15:07]
+
+**** TODO Check grout in bathrooms, kitchen, etc
+SCHEDULED: <2017-06-01 Thu +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:27]--[2016-08-27 Sat 15:28] =>  0:01
+:END:
+[2016-08-27 Sat 15:27]
+
+**** TODO Check all locks and deadbolts
+SCHEDULED: <2016-12-01 Thu +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:47]--[2016-08-27 Sat 15:48] =>  0:01
+:END:
+[2016-08-27 Sat 15:47]
+
+**** TODO Inspect, lubricate, and tighten ceiling fan
+SCHEDULED: <2017-03-01 Wed +1y>
+:LOGBOOK:
+CLOCK: [2016-08-28 Sun 11:18]--[2016-08-28 Sun 11:19] =>  0:01
+:END:
+[2016-08-28 Sun 11:18]
+
+*** Exterior
+**** Grounds
+***** TODO Inspect grading around house for proper water drainage
+SCHEDULED: <2017-09-01 Tue .+1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 13:52]--[2016-08-27 Sat 13:53] =>  0:01
+:END:
+[2016-08-27 Sat 13:52]
+
+***** TODO Check trees for interference with electric lines
+SCHEDULED: <2017-03-01 Tue +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:24]--[2016-08-27 Sat 15:27] =>  0:03
+:END:
+[2016-08-27 Sat 15:24]
+
+***** TODO Check driveway and pavement for cracks
+SCHEDULED: <2017-10-01 Sun +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:43]--[2016-08-27 Sat 15:45] =>  0:02
+:END:
+[2016-08-27 Sat 15:43]
+
+**** Gutters
+***** TODO Remove debris from gutters
+SCHEDULED: <2016-11-01 Tue +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 13:46]--[2016-08-27 Sat 13:47] =>  0:01
+:END:
+[2016-08-27 Sat 13:46]
+
+***** TODO Check gutter and downspout alignment
+Ensure that water drains away from house
+SCHEDULED: <2017-03-01 Wed +6m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 13:47]--[2016-08-27 Sat 13:49] =>  0:02
+:END:
+[2016-08-27 Sat 13:47]
+
+***** TODO Check for gutter / downspout wearing
+- Paint worn areas
+- Repair/caulk holes
+- Inspect and tighten mountings
+- Replace sections with large holes or excessive rust
+SCHEDULED: <2017-03-01 Wed +6m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 13:49]--[2016-08-27 Sat 13:51] =>  0:02
+:END:
+[2016-08-27 Sat 13:49]
+
+**** Roof
+***** TODO Inspect roof for damaged or loose shingles or blisters
+SCHEDULED: <2017-03-01 Wed .+1y>
+[2016-08-27 Sat 14:14]
+
+**** Walls
+***** TODO Inspect inside/outside foundation walls for termite tubes / damaged wood
+SCHEDULED: <2017-03-01 Wed +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:05]--[2016-08-27 Sat 14:07] =>  0:02
+CLOCK: [2016-08-27 Sat 13:53]--[2016-08-27 Sat 14:05] =>  0:12
+:END:
+[2016-08-27 Sat 13:53]
+
+***** TODO Inspect exterior for cracked mortar or loose joints
+SCHEDULED: <2017-03-01 Wed +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:08]--[2016-08-27 Sat 14:11] =>  0:03
+:END:
+[2016-08-27 Sat 14:08]
+
+***** TODO Inspect condition of caulking where different materials meet
+Examples: Where wood siding joins the foundation's wall, at inside corners,
+and where window trim and door trim join the siding
+SCHEDULED: <2017-03-01 Wed +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:11]--[2016-08-27 Sat 14:12] =>  0:01
+:END:
+[2016-08-27 Sat 14:11]
+
+***** TODO Check vents and louvers for free air movement. Clean screens
+SCHEDULED: <2017-03-01 Wed +6m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:29]--[2016-08-27 Sat 14:32] =>  0:03
+:END:
+[2016-08-27 Sat 14:29]
+
+**** TODO Inspect weather stripping on windows and doors for damage and tightness of fit
+SCHEDULED: <2016-11-01 Tue +6m>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:12]--[2016-08-27 Sat 14:14] =>  0:02
+:END:
+[2016-08-27 Sat 14:12]
+
+**** TODO Close shutoff valves to outside faucets and waterlines and flush
+SCHEDULED: <2017-10-01 Sun +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 14:26]--[2016-08-27 Sat 14:29] =>  0:03
+:END:
+[2016-08-27 Sat 14:26]
+
+**** TODO Execute insect preventive maintenance
+SCHEDULED: <2017-03-01 Tue +1y>
+:LOGBOOK:
+CLOCK: [2016-08-27 Sat 15:28]--[2016-08-27 Sat 15:30] =>  0:02
+:END:
+[2016-08-27 Sat 15:28]
